@@ -1,0 +1,166 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2
+}
+
+h1 {
+  font-size: 562.5%;
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 1.8rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  padding-top: 150px;
+  position: relative;
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin:50px auto 0px;
+  font-size: 1.3rem;
+  padding:10px 0 10px;
+}
+
+.p1 {
+  font-size: 1.8rem;
+}
+
+.bird {
+  position: relative;
+  width: 100px;
+  margin-right: 500px;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  margin-top: 100px;
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.vit:hover {
+  color: #EAF6F6;
+}
+
+.pic {
+  width: 200px;
+}
+
+.bulb {
+  width: 9.37rem;
+  float: left;
+}
+
+.tree {
+  width: 150px;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 600px;
+}
+
+.student {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.handshake {
+  width: 9.37rem;
+  float: right;
+  margin-right: 100px;
+  position: relative;
+}
+
+.contact-me {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 30px;
+  padding-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+}
+
+.hr {
+  border-style: dotted;
+  border-bottom: none;
+  color: #EAF6F6;
+  border-width: 6px;
+  width: 7%;
+  margin: 100px auto;
+}
+
+.button {
+  background-color: #33bdef;
+  -moz-border-radius: 28px;
+  -webkit-border-radius: 28px;
+  border-radius: 28px;
+  border: 1px solid #057fd0;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  ;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #5b6178;
+}
+
+.button:hover {
+  background-color: #019ad2;
+}
+
+.button:active {
+  position: relative;
+  top: 1px;
+}
+
+.contact-message {
+  width: 70%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 1rem;
+  padding: 10px 0px 0px;
+}
